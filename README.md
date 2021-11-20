@@ -1,25 +1,10 @@
-# Hello 👋
+# Hi, I'm Henrique 👋
+I'm currently a SAP support Analyst and Web development enthusiast and student (I love front-end ❤️). 
 
-My name's Henrique and I'm currently a SAP support analyst and student of **Web Development**
+Passionate about creating new things with programming language and discovering the power of technologies in ourselves. 
 
-Besides me, I'm very curios person in everything I do and learn. I'm really passionate about technology and how it has been changing the world in all aspects. I'm currently creating my own website and blog to reach more people and help others software developers around the world with articles and code projects.
+If you want to know more about me, my projects and what I do, you can go to this page where I compiled everything about me 👉[Henrique's Notion](https://www.notion.so/itshcastromachado/Henrique-de-Castro-Machado-504fa157c45741d2a63a7985aafee46f). In this link you can see my best programming projects, resume, important links and more. 
 
-One of my objectives is reach the **open source community** positively 🧑‍💻
+> Love what you do and be consistent on it! You will be regarded soon than you think. 
 
-# Experience and projects 💻
-
-💻 I'm currently studying and creating projects in four Front-End technologies: HTML, CSS/SASS, Javascript ES6 and ReactJS.
-
-**[Here]()**, we can see my **10 best projects** (or portfolio - you name it 😂). I created all of these projects with **enthusiasm, passion and a lot of studies**. To see the projects working, you can click in the Live Demo link available in each repository.
-
-Feel free to fork, contribute and upgrade those projects 🧙‍♂️
-
-# Goals🚀
-
-- 😍 Looking for my first experience in front-end development.
-- 📚 Contribute more and more to the Open Source Comunnity in the world.
-- 🎯 Finish my own website and blog as soon as possible.
-- ☕ Not less important: buy a machine coffee.
-
-**Made with love to the open source community❤️**
-
+[👉Twitter](https://twitter.com/hcastromachado) [👉Linkedin](https://www.linkedin.com/in/henriquecmachado/)
