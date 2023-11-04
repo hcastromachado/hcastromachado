@@ -1,4 +1,4 @@
-### 🌟 About Me 🌟 <br>
+### 🌟 About Me 🌟 
 I'm on a never-ending quest to build the coolest stuff with the magic of programming! 🚀
 
  ### 💻 Current Status 💻 
