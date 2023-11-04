@@ -1,6 +1,6 @@
-#👋 Hello there, fellow code explorer!
+# 👋 Hello there, fellow code explorer!
 
-#@# 🌟 About Me 🌟
+## 🌟 About Me 🌟
 I'm on a never-ending quest to build the coolest stuff with the magic of programming! 🚀
 
 ## 💻 Current Status 💻
