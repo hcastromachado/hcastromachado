@@ -23,6 +23,3 @@
 - I believe that semicolons are like optional accessories for a coder's outfit. 😉💼
 - I've been known to talk to my code, especially when it misbehaves. It usually listens (or pretends to).
 - I love to watch bushcraft and camping videos 🏕️
-
-
- 🚀 Keep Calm and Code On! 🚀 
