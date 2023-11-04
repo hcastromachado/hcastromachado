@@ -1,24 +1,24 @@
-### 🌟 About Me 🌟 
-I'm on a never-ending quest to build the coolest stuff with the magic of programming! 🚀
+### 🌟 About Me 🌟 <br>
+I'm on a never-ending quest to build the coolest stuff with the magic of programming! 🚀<br>
 
 
  ### 💻 Current Status 💻 
-📚 Learning, coding, and having a blast along the way.
-💡 Turning caffeine into code, one cup at a time.
-🎉 Celebrating each bug squashed as a personal victory.
+📚 Learning, coding, and having a blast along the way.<br>
+💡 Turning caffeine into code, one cup at a time.<br>
+🎉 Celebrating each bug squashed as a personal victory.<br>
 
- ### 🔧 Tech Toolbox 🔧 
-Languages: 🐍 Python, 🚀 JavaScript, 💾 SQL, and more!
-Tools: 🛠️ Visual Studio Code, 🐙 Git, 📦 npm, and a pinch of ✨ magic.
-Frameworks: Node.js and Flask - the cool kids in town.
-
-
- ### 🌐 Let's Connect 🌐 
-💬 Got a question or just want to chat about code? Ping me anytime!
-📤 Linkedin: [@hcastromachado](https://www.linkedin.com/in/henriquecmachado/)
-📧 Email: heyhenriquecastro@gmail.com
+ ### 🔧 Tech Toolbox 🔧 <br>
+Languages: 🐍 Python, 🚀 JavaScript, 💾 SQL, and more!<br>
+Tools: 🛠️ Visual Studio Code, 🐙 Git, 📦 npm, and a pinch of ✨ magic.<br>
+Frameworks: Node.js and Flask - the cool kids in town.<br>
 
 
- ### 🤖 Fun Fact 🤖 
-I love to watch bushcraft and camping videos 🏕️
-I love productivity and organizations apps 🗓️
+ ### 🌐 Let's Connect 🌐 <br>
+💬 Got a question or just want to chat about code? Ping me anytime!<br>
+📤 Linkedin: [@hcastromachado](https://www.linkedin.com/in/henriquecmachado/)<br>
+📧 Email: heyhenriquecastro@gmail.com<br>
+
+
+ ### 🤖 Fun Fact 🤖 <br>
+I love to watch bushcraft and camping videos 🏕️<br>
+I love productivity and organizations apps 🗓️<br>
