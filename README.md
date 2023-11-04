@@ -1,7 +1,6 @@
-# 👋 Hello there, fellow code explorer!
-
 ## 🌟 About Me 🌟
 I'm on a never-ending quest to build the coolest stuff with the magic of programming! 🚀
+Hello there, fellow code explorer! 👋
 
 ## 💻 Current Status 💻
 📚 Learning, coding, and having a blast along the way.
