@@ -16,6 +16,7 @@ Frameworks: Node.js and Flask - the cool kids in town.<br>
 💬 Got a question or just want to chat about code? Ping me anytime!<br>
 📤 Linkedin: [@hcastromachado](https://www.linkedin.com/in/henriquecmachado/)<br>
 📧 Email: heyhenriquecastro@gmail.com<br>
+✍️ Website: https://personal-blog-hcastromachado.vercel.app 
 
 
  ### 🤖 Fun Fact 🤖 
